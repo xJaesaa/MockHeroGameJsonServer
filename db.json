@@ -13,8 +13,36 @@
       "minDice": 4,
       "maxDice": 8,
       "uses": 2
+    },
+    {
+      "id":3,
+      "name": "Gamer",
+      "minDice": 4,
+      "maxDice": 7,
+      "uses": 2
+    },
+    {
+      "id":4,
+      "name": "Jaesa",
+      "minDice": 2,
+      "maxDice": 9,
+      "uses": 2
     }
    ],
+  "villains":[
+    {
+      "id": 1,
+      "name": "Russell Sprout"
+    },
+    {
+      "id": 2,
+      "name": "Due Date Jenny"
+    },
+    {
+      "id": 3,
+      "name": "Taxation Tony"
+    }
+  ],
     "profile":{
       "name":"xJaesaa"
     }
