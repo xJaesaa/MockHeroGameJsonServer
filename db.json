@@ -1,16 +1,16 @@
 {
   "heroes":[
     {
-      "id":1,
-      "name": "Captain Swinburne",
+      "HeroID":1,
+      "HeroName": "Captain Swinburne",
       "TotalRolls": 1,
       "RollsLeft": 6,
       "MinRoll": 2,
       "MaxRoll": 6
     },
     {
-      "id":2,
-      "name": "John Carmack",
+      "HeroID":2,
+      "HeroName": "John Carmack",
       "TotalRolls": 4,
       "RollsLeft": 4,
       "MinRoll": 1,
