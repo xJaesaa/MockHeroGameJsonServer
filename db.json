@@ -29,8 +29,9 @@
       "HP": 7
     },
     {
-      "id": 3,
-      "name": "Taxation Tony"
+      "VillainID": 3,
+      "VillainName": "Taxation Tony",
+      "HP": 6
     }
   ],
     "profile":{
