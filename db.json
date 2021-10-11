@@ -3,16 +3,18 @@
     {
       "id":1,
       "name": "Captain Swinburne",
-      "minDice": 1,
-      "maxDice": 6,
-      "uses": 2
+      "TotalRolls": 1,
+      "RollsLeft": 6,
+      "MinRoll": 2,
+      "MaxRoll": 6
     },
     {
       "id":2,
       "name": "John Carmack",
-      "minDice": 4,
-      "maxDice": 8,
-      "uses": 2
+      "TotalRolls": 4,
+      "RollsLeft": 4,
+      "MinRoll": 1,
+      "MaxRoll": 8
     }
    ],
   "villains":[
