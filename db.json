@@ -19,12 +19,14 @@
    ],
   "villains":[
     {
-      "id": 1,
-      "name": "Russell Sprout"
+      "VillainID": 1,
+      "VillainName": "Russell Sprout",
+      "HP": 5
     },
     {
-      "id": 2,
-      "name": "Due Date Jenny"
+      "VillainID": 2,
+      "VillainName": "Due Date Jenny",
+      "HP": 7
     },
     {
       "id": 3,
